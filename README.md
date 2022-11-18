@@ -1,7 +1,7 @@
 ## Hi!👋 Ivad Here.
 ![github-cover](https://user-images.githubusercontent.com/54445417/173148243-8477c7f4-4de4-4c98-b229-d4b0a5f3d593.png)
-A software developer, a learner, a blogger and a psychologist with a passion for web and mobile development, creating software solutions and giving back to the dev community. 
-In my work, I strive for a good job, done and done right with best practices, simple clean code and attention to details. 
+A software developer, a learner, a blogger and a psychologist with a passion for web and mobile development, creating software solutions and giving back to the dev community.<br>
+In my work, I strive for a good job, done and done right with best practices, simple clean code and attention to details.<br>
 Some of the technologies I enjoy using include TypeScript, React, Tailwind CSS and GraphQL but I'm always breaking and trying things out; maybe you should try me too🤗.
 
 ## Find me on the web
